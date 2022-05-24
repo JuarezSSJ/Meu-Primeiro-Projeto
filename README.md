@@ -1,4 +1,4 @@
-# Meu Primeiro Projeto
-## Olá Mundo
- Primeiro Repositorio do curso de Git e GitHub
+# Olá Mundo
+
+Primeiro Repositorio do curso de Git e GitHub
 Repositorio criado para test
