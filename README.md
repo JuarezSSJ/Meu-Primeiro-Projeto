@@ -31,3 +31,5 @@ Num | Nome | Preço
 2 | Pão de Queijo s/ Recheio | R$1,00
 3 | Amanteigado | R$2,50
 
+Finalizando a tabela
+
